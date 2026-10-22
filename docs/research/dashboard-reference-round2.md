@@ -29,3 +29,18 @@
 - 듀오톤 아이콘 규칙: 기존 라인 아이콘에서 결과물 획 1개만 버밀리언 — [ElevenLabs](https://mobbin.com/screens/ecdfd399-91f3-4c71-b33d-8d7015840fb1)
 - 처리할 일 있는 메뉴에 상태 점, 사용 근거 메타(최근 3회/마지막 사용일) — [Google Home](https://mobbin.com/screens/8eea0688-62ac-4721-88b4-58ca4e1a90d0), [Gemini](https://mobbin.com/screens/8e69f055-1e8c-4c68-924b-f675edb5ee0a)
 - 고정 1~2 + 최근 자동 4, 편집 드로어(탭 = LNB 그룹) — [Magnific](https://mobbin.com/screens/dcdccdef-007f-4e73-b10b-6deee3e91014), [Raycast](https://mobbin.com/screens/1e9ec130-d56e-42c6-b040-c333c2b6f0c8)
+
+## 06 GDWEB 수상작 후보 (검색 인덱스의 메타데이터 기준, 화면 미확인)
+| 작품 | 등급 · 등록 | 메타 | 볼 포인트(가설) |
+|---|---|---|---|
+| [소이정](https://www.gdweb.co.kr/sub/view.asp?Txt_fgbn=5&str_no=23375) | GRAND 2024.10 | ORANGE · 3D, 일러스트 | 오렌지 면적, 오브젝트 아이콘 |
+| [퓨리토 서울](https://www.gdweb.co.kr/sub/view.asp?str_no=22237) | GRAND 2024.05 | GREEN + ORANGE | 보조색 오렌지 밀도 |
+| [이지바이트](https://gdweb.co.kr/sub/view.asp?str_no=16994) | GRAND 2022.05 | BLUE · ORANGE · WHITE | 포인트 오렌지로 CTA·상태 구분 |
+| [오늘의 라면](http://imagemall.gdweb.co.kr/sub/view.asp?str_no=15973) | GRAND 2021.11 | ORANGE | 오렌지 대면적 상한선 |
+| [클린앤피부과](https://www.gdweb.co.kr/sub/view.asp?displayrow=24&Txt_fgbn=5&Page=1&str_no=22362) | WINNER 2024 | BROWN · 서정적인 | 웜 브라운 단색 무드 |
+| [현대얼터너티브](http://new.gdweb.co.kr/sub/view.asp?Txt_fgbn=5&str_no=27103) | WINNER 2026 | BROWN + WHITE | 기업형 정보 밀도의 웜톤 |
+| [금융결제원 통합포털](https://www.gdweb.co.kr/sub/view.asp?displayrow=60&Txt_key=all&Txt_fgbn=5&Txt_bcode2=031010001&Page=18&str_no=14306) | WINNER 2020.12 | BLUE · 심플 | 기관 통합 회원포털 구조 |
+| [우리금융저축은행](http://gdweb.co.kr/sub/view.asp?displayrow=60&Txt_key=all&Txt_fgbn=5&Txt_bcode2=031010001&Page=1&str_no=15775) | GRAND 2021.10 | 신뢰적인 | 금액 중심 숫자 위계 |
+| [크린토피아 앱](https://www.gdweb.co.kr/sub/view.asp?Txt_fgbn=7&str_no=25597) | GRAND 2025.08 | UX 부문 | 신청 진행 상태 추적 |
+| [SK케미칼 이음 플랫폼](https://www.gdweb.co.kr/sub/view.asp?Txt_fgbn=5&str_no=24376) | WINNER | GREEN · 3D/그래픽 | 기업 회원 플랫폼의 3D 절제 |
+| [디지털 정부서비스 UI/UX 가이드라인](https://www.gdweb.co.kr/sub/view.asp?displayrow=24&Txt_fgbn=5&Page=1&str_no=22102) | 선정작 | 공공 가이드 | 상태 색+텍스트 이중 표기 |
